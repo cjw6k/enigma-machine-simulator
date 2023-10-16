@@ -1,5 +1,5 @@
 # Enigma Machine Simulator
-A simulation of the infamous WW2 era cipher machine.
+A simulation of [the infamous WW2 era cipher machine](https://en.wikipedia.org/wiki/Enigma_machine).
 
 ## About this software
 The simulator is written in the JavaScript programming lanaguage and has **very good test coverage**. 
